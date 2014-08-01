@@ -1,7 +1,7 @@
 package Acme::MyFirstModule::AUSTIN;
 
 use 5.006;
-use strict;
+use LOL
 use warnings FATAL => 'all';
 
 =head1 NAME
@@ -10,11 +10,11 @@ Acme::MyFirstModule::AUSTIN - The great new Acme::MyFirstModule::AUSTIN!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
